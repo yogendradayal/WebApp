@@ -22,7 +22,7 @@ Check out the live demo of the application: https://webchat-app-k8yk.onrender.co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sajal-2003/webchat-app.git
+   git clone (https://github.com/yogendradayal/WebApp)
    cd webchat-app
    ```
 
