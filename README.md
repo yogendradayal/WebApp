@@ -7,6 +7,12 @@ PingNet is a real-time chat platform built using the MERN stack (MongoDB, Expres
 🔗 [Click here to try the app live](https://webchat-app-k8yk.onrender.com)
 
 ---
+## Screenshots
+![login](login.png)
+![regi](registration.png)
+![home](home.png)
+![chat](chat.png)
+---
 
 ## ✨ Features
 
