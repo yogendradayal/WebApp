@@ -2,6 +2,10 @@
 
 PingNet is a real-time chat platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO. It allows users to create accounts, send and receive private messages instantly, and enjoy a seamless chat experience across devices.
 
+
+# ER DIAGRAM
+![ER](er_diagram_simplified.png)
+---
 ## 🚀 Live Demo
 
 🔗 [Click here to try the app live](https://webchat-app-k8yk.onrender.com)
@@ -116,8 +120,4 @@ To deploy the application:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to update tests as appropriate.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
 
